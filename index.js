@@ -10,7 +10,7 @@ const fileFolder = "timestamps";
 app.get("/", function (req, res) {
   if (req.url === "/") {
     res.send(`
-    <h2 style="text-align:center;color:blue;">Hey, this is naveen!! welcome to my server </h2>
+    <h2 style="text-align:center;color:blue;">Hey, this is thamraiKannan!! welcome to my server </h2>
     <div style="display:flex; justify-content:center;padding:20px;"> 
     <div style=" background-color:blue; padding:20px;"> 
     <p style="color:white;background-color:white; padding:10px 40px; margin:10px 20px; text-align:center ">
